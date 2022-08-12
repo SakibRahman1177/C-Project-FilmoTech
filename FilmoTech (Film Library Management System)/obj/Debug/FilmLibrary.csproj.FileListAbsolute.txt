@@ -1,0 +1,61 @@
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\bin\Debug\FilmLibrary.exe.config
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\bin\Debug\FilmLibrary.exe
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\bin\Debug\FilmLibrary.pdb
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\obj\Debug\FilmLibrary.csproj.AssemblyReference.cache
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\obj\Debug\FilmLibrary.MovieManager.resources
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\obj\Debug\FilmLibrary.Properties.Resources.resources
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\obj\Debug\FilmLibrary.csproj.GenerateResource.cache
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\obj\Debug\FilmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\obj\Debug\FilmLibrary.exe
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\obj\Debug\FilmLibrary.pdb
+C:\Users\Towfiq Rahman\Desktop\VS WORK\FilmLibrary\obj\Debug\FilmLibrary.UploadMovies.resources
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\bin\Debug\FilmLibrary.exe.config
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\bin\Debug\FilmLibrary.exe
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\bin\Debug\FilmLibrary.pdb
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\obj\Debug\FilmLibrary.csproj.AssemblyReference.cache
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\obj\Debug\FilmLibrary.UploadMovies.resources
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\obj\Debug\FilmLibrary.MovieManager.resources
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\obj\Debug\FilmLibrary.Properties.Resources.resources
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\obj\Debug\FilmLibrary.csproj.GenerateResource.cache
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\obj\Debug\FilmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\obj\Debug\FilmLibrary.exe
+C:\Users\Towfiq Rahman\Desktop\VS WORK\Trial\obj\Debug\FilmLibrary.pdb
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\bin\Debug\FilmLibrary.exe.config
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\bin\Debug\FilmLibrary.exe
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\bin\Debug\FilmLibrary.pdb
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.csproj.AssemblyReference.cache
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.AdminDashboard.resources
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.Rating.resources
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.UploadMovies.resources
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.MovieManager.resources
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.Registration.resources
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.Login.resources
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.MemberDashboard.resources
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.Account.resources
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.Downloads.resources
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.Properties.Resources.resources
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.csproj.GenerateResource.cache
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.csproj.CoreCompileInputs.cache
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.exe
+E:\AIUB\7th Semester\OOP2\Final\Film library\FinalProject\obj\Debug\FilmLibrary.pdb
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\bin\Debug\FilmLibrary.exe.config
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\bin\Debug\FilmLibrary.exe
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\bin\Debug\FilmLibrary.pdb
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.csproj.AssemblyReference.cache
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.AdminDashboard.resources
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.Rating.resources
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.UploadMovies.resources
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.MovieManager.resources
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.Registration.resources
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.Login.resources
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.MemberDashboard.resources
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.Account.resources
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.Downloads.resources
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.Properties.Resources.resources
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.csproj.GenerateResource.cache
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.exe
+C:\Users\Towfiq Rahman\Desktop\SRE\FinalProject\obj\Debug\FilmLibrary.pdb
+C:\Users\jr computer\OneDrive\Desktop\FinalProject\obj\Debug\FilmLibrary.csproj.AssemblyReference.cache
+C:\Users\jr computer\OneDrive\Desktop\FinalProject\obj\Debug\FilmLibrary.exe
+C:\Users\jr computer\OneDrive\Desktop\FinalProject\obj\Debug\FilmLibrary.pdb
